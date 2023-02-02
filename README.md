@@ -1,18 +1,26 @@
 # BufordsFE
 
-Questions:
+UPER
+
+U - Understand
+Create a website for a restaurant using existing site as template
 What CSS to use?
 Which package manager to use?
 Authentication log/in? auth zero vs oauth vs SHA256 vs ?
 Still use Stripe for CC payments?
 Formik for forms?
 
-UPER
+[] Create UX User Flow
 
-U - Understand
-Create a website for a restaurant using existing site as template
-Users should be able to:
-[] View existing site data
+P - Plan
+Typescript with React and Redux
+CSS/styling -
+Forms -
+Auth -
+Payment -
+
+[] Create React App
+[] Add existing site data
 [] Existing Menus
 [] Existing Links
 [] Create user/log in
@@ -23,15 +31,7 @@ Users should be able to:
 [] User can add item(s) to their cart
 [] View payment screen
 [] Pay with credit card
-
-P - Plan
-Typescript with React and Redux
-CSS/styling -
-Forms -
-Auth -
-Payment -
-
-[] Create UX User Flow
+[] Refactor original site to React
 
 E - Execute
 
